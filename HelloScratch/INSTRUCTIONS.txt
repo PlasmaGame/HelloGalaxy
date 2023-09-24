@@ -1,0 +1,2 @@
+.sb3 File is for importing into scratch
+OnlineLink.txt is for directly playing the project

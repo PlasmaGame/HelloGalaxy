@@ -1,0 +1,1 @@
+If you aren't using VSCode then find all .code-workspace files and delete them and do the same for

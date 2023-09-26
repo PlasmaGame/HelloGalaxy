@@ -1,0 +1,1 @@
+Use PyCharm with venv Environment for the project files

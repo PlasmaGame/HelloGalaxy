@@ -1,2 +1,0 @@
-Install "Node.JS" and run the "Node.JS Command Prompt"
-Then use commands to navigate to the ts file and then type "node <YOUR PATH>.ts" and it should work.

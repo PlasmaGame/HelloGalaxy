@@ -1,0 +1,3 @@
+[submodule "HelloVisual/MakeCode/HelloMCA"]
+	path = HelloVisual/MakeCode/HelloMCA
+	url = https://github.com/TRSandwich/MCAHelloWorld

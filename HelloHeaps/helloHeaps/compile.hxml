@@ -1,5 +1,0 @@
--cp src
--lib heaps
--lib hlsdl
--hl out/main.c
--main Main

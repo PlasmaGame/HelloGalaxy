@@ -4,3 +4,6 @@
 [submodule "HelloLetters/HelloWorldCS"]
 	path = HelloLetters/HelloWorldCS
 	url = https://github.com/PlasmaGame/HelloWorldCS
+[submodule "HelloLetters/HelloWorldVB"]
+	path = HelloLetters/HelloWorldVB
+	url = https://github.com/PlasmaGame/HelloWorldVB

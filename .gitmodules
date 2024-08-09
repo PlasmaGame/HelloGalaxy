@@ -1,3 +1,6 @@
 [submodule "HelloVisual/MakeCode/HelloMCA"]
 	path = HelloVisual/MakeCode/HelloMCA
 	url = https://github.com/TRSandwich/MCAHelloWorld
+[submodule "HelloLetters/HelloWorldCS"]
+	path = HelloLetters/HelloWorldCS
+	url = https://github.com/PlasmaGame/HelloWorldCS

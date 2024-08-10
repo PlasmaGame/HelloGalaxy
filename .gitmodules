@@ -7,3 +7,9 @@
 [submodule "HelloLetters/HelloWorldVB"]
 	path = HelloLetters/HelloWorldVB
 	url = https://github.com/PlasmaGame/HelloWorldVB
+[submodule "HelloLetters/HelloWorldFS/HelloWorldFS"]
+	path = HelloLetters/HelloWorldFS/HelloWorldFS
+	url = https://github.com/PlasmaGame/HelloWorldFS
+[submodule "HelloLetters/HelloWorldFS/HelloWorldFSRunner"]
+	path = HelloLetters/HelloWorldFS/HelloWorldFSRunner
+	url = https://github.com/PlasmaGame/HelloWorldFSRunner

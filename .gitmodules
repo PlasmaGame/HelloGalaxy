@@ -13,3 +13,6 @@
 [submodule "HelloLetters/HelloWorldFS/HelloWorldFSRunner"]
 	path = HelloLetters/HelloWorldFS/HelloWorldFSRunner
 	url = https://github.com/PlasmaGame/HelloWorldFSRunner
+[submodule "HelloWorldWPF"]
+	path = HelloWorldWPF
+	url = https://github.com/TRSandwich/HelloWorldWPF/

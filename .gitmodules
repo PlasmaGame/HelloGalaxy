@@ -16,3 +16,6 @@
 [submodule "HelloWorldWPF"]
 	path = HelloWorldWPF
 	url = https://github.com/TRSandwich/HelloWorldWPF/
+[submodule "HelloHaxe"]
+	path = HelloHaxe
+	url = https://github.com/PlasmaGame/HelloHaxe
